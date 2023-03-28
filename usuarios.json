@@ -1,0 +1,24 @@
+[
+    {
+        "nombre": "Marcos",
+        "apellido": "Gonzalez",
+        "edad": 26,
+        "curso": "Backend",
+        "id": 1
+    },
+    {
+        "nombre": "Alberto",
+        "apellido": "Einstein",
+        "edad": 26,
+        "curso": "Backend",
+        "id": 2
+    },
+    {
+        "nombre": "Lionel",
+        "apellido": "Messi",
+        "edad": 26,
+        "curso": "Argentina",
+        "id": 3
+    }
+  
+]
